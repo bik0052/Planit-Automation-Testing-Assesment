@@ -232,10 +232,8 @@ jobs:
                   </div>
                   
                   <div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd;">
-                      <p><strong>Assessment Generated:</strong> $(date)</p>
                       <p><strong>Repository:</strong> ${{ github.repository }}</p>
                       <p><strong>Build:</strong> #${{ github.run_number }}</p>
-                      <p style="color: #27ae60; font-weight: bold; font-size: 1.1em;">🚀 Ready for Technical Interview Discussion</p>
                   </div>
               </div>
           </body>
